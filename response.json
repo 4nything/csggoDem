@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "steamid": 76561199127514443,
+      "user_id": 12,
+      "comp_wins": 153,
+      "rank_name": "DMG",
+      "name": "gi",
+      "rank_id": 14,
+      "entity_id": 11,
+      "crosshair_code": "CSGO-T3kWH-RXmGd-G9FXC-7qWjA-5BZ2Q",
+      "starting_side": "T"
+    },
+    {
+      "comp_wins": 110,
+      "entity_id": 2,
+      "crosshair_code": "CSGO-4aJ9X-CE7FC-xb95j-aUXZs-a38CH",
+      "starting_side": "T",
+      "user_id": 3,
+      "name": "wnnYxD",
+      "rank_id": 15,
+      "rank_name": "LE",
+      "steamid": 76561198880945326
+    },
+    {
+      "steamid": 76561199139444662,
+      "user_id": 9,
+      "name": "nac",
+      "comp_wins": 291,
+      "rank_name": "LE",
+      "entity_id": 8,
+      "rank_id": 15,
+      "crosshair_code": "CSGO-UEztA-6qoLG-WM8GQ-7OLPF-i7BYN",
+      "starting_side": "CT"
+    },
+    {
+      "name": "Nypo",
+      "entity_id": 6,
+      "crosshair_code": "CSGO-vmtrP-xtSnt-YEoUE-F5L6W-WOn2H",
+      "comp_wins": 137,
+      "starting_side": "T",
+      "user_id": 7,
+      "steamid": 76561198453062074,
+      "rank_name": "LEM",
+      "rank_id": 16
+    },
+    {
+      "name": "infinity",
+      "starting_side": "CT",
+      "crosshair_code": "CSGO-NtvYW-bQam4-W7RiF-RwVfs-kEAMK",
+      "user_id": 13,
+      "rank_id": 14,
+      "steamid": 76561199000606679,
+      "entity_id": 12,
+      "rank_name": "DMG",
+      "comp_wins": 282
+    },
+    {
+      "rank_id": 14,
+      "rank_name": "DMG",
+      "user_id": 10,
+      "starting_side": "T",
+      "comp_wins": 410,
+      "steamid": 76561198053747897,
+      "name": "HollywoodBR",
+      "crosshair_code": "CSGO-XS5AW-wOq8u-FQzWO-pUujx-JTDND",
+      "entity_id": 9
+    },
+    {
+      "steamid": 76561199122731772,
+      "comp_wins": 78,
+      "starting_side": "CT",
+      "crosshair_code": "CSGO-tDJxK-6cOLu-mD36v-R2LZj-OxSyL",
+      "user_id": 8,
+      "entity_id": 7,
+      "rank_name": "Unranked",
+      "rank_id": -1,
+      "name": "Ryan"
+    },
+    {
+      "rank_id": 13,
+      "steamid": 76561198972082278,
+      "comp_wins": 289,
+      "user_id": 15,
+      "name": "𝓷𝓲𝓷𝐤𝓪",
+      "crosshair_code": "CSGO-kTi4Q-PYwfH-nkNDH-pUujx-JTDND",
+      "entity_id": 4,
+      "starting_side": "CT",
+      "rank_name": "MGE"
+    },
+    {
+      "starting_side": "CT",
+      "name": "YEL",
+      "user_id": 4,
+      "crosshair_code": "CSGO-KYFYs-tNLXD-WXmzG-raZEx-8Er7C",
+      "rank_id": 15,
+      "comp_wins": 435,
+      "steamid": 76561198300811694,
+      "entity_id": 3,
+      "rank_name": "LE"
+    },
+    {
+      "rank_id": 11,
+      "crosshair_code": "CSGO-8zrZH-MUvQN-hiReV-nBfTD-4uhCG",
+      "user_id": 11,
+      "rank_name": "MG1",
+      "name": "ZÉ BUCETA",
+      "comp_wins": 1356,
+      "entity_id": 10,
+      "starting_side": "T",
+      "steamid": 76561198374356807
+    }
+  ]
+}
